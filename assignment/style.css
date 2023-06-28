@@ -13,8 +13,20 @@ header {
 }
 
 h2 {
-    padding: 1% 0 1% 0;
+    padding: 1% 0% 1% 0;
     background-color: rgb(23,85,99);
     color: rgb(206,229,219);
 }
-/* background-color: rgb(68,153,171); */
+
+img {
+    margin-left: 5%;
+    float: bottom;
+    margin-bottom: -8%;
+}
+
+h3 { 
+    padding: 1% 0% 1% 32% ;
+    background-color: rgba(87,167,164,0.7);
+    color: rgb(206,229,219);
+    font-variant: normal;
+}
