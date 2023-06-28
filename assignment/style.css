@@ -2,16 +2,19 @@ body {
     background-color: rgb(13,132,135);
     color: white;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-variant: small-caps;
 } 
 
 header {
-    background-color: rgb(23,85,99);
+    background-color: rgb(87,167,164);
     color: rgb(206,229,219);
-    border: solid 3px rgb(74,213,156);
+    text-align: center;
+    padding: 2% 0 2% 0;
 }
 
 h2 {
-    background-color: rgb(87,167,164);
-    color: rgb(23,85,99);
+    padding: 1% 0 1% 0;
+    background-color: rgb(23,85,99);
+    color: rgb(206,229,219);
 }
 /* background-color: rgb(68,153,171); */
